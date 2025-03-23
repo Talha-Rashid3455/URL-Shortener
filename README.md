@@ -1,9 +1,7 @@
 # URL-Shortener
 Overview: The URL Shortener project is a web application designed to convert long URLs into short and shareable links. This tool allows users to generate a shorter version of any URL, which is easier to share and more efficient in terms of space when posting on social media, emails, or other messaging platforms. 
 
-# URL Shortener
 
-This is a simple URL Shortener application built with FastAPI for the backend and React.js for the frontend. It allows users to shorten long URLs, retrieve original URLs using short codes, update short URLs, delete them, and view statistics.
 
 ## Features
 - **Shorten URL**: Convert long URLs into shorter, shareable versions.
